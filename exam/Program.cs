@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace exam
+namespace EXAM
 {
     class Program
     {
@@ -21,4 +21,5 @@ namespace exam
             Console.ReadKey();
         }
     }
+}
 }
